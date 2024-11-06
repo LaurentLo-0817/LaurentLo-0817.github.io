@@ -1,5 +1,5 @@
 {
-  "basics": [
+  "basics": 
   {
     "name": "Wen Chieh Lo",
     "image": "prof_pic.jpg",
@@ -7,9 +7,7 @@
     "phone": "+886 978428236",
     "url": "https://LaurentLo-0817.github.io",
     "summary": "Currently Applying ECE/CSE program for 2025 Fall"
-  }
- ],
-  
+  },
   "Education": [
     {
       "institution": "National Taiwan University",
