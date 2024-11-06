@@ -27,6 +27,8 @@ I received my bachelor's degree in Electrical Engineering from National Taiwan U
 My research interests are in VLSI and Computer Architecture.
 I was a summer intern at MediaTek's SoC Integration Department, where I designed a low-power architecture plan for the NoC structure.
 During my undergraduate studies, I was advised by Prof. Yi-Chang Lu on Spliced Genomic Sequence Hardware Acceleration research and developed resource-efficient Machine Learning Model Deployment on FPGA features in Prof. Ryan Kastner's Lab.
+
+
 ### Research Interests
 * VLSI Design
 * Computer Architecture
