@@ -2,11 +2,11 @@
 layout: about
 title: About Me
 permalink: /
-subtitle: A Brief Introduction
+subtitle: Welcome!
 
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
