@@ -1,19 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Wen Chieh Lo",
+    "label": "B.S in Electrical Engineering at National Taiwan University",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "email": "jack910817@gmail.com",
+    "phone": "+886 978428236",
+    "url": "https://LaurentLo-0817.github.io",
+    "summary": "Currently Applying ECE/CSE program for 2025 Fall",
     "profiles": [
       {
         "network": "Twitter",
