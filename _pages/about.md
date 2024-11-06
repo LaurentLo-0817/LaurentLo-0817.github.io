@@ -7,7 +7,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true
-  more_info: |
+  more_info:
   Taipei, Taiwan
 
   [<img src="/assets/img/resume-icon.png" alt="Resume Icon" style="width: 20px; height: 20px; vertical-align: middle;"> Résumé](/assets/pdf/Wen_Chieh_Lo_resume.pdf)
