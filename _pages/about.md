@@ -8,8 +8,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    Taipei, Taiwan<br>
-    Email: jack910817@gmail.com
+    <p>Taipei, Taiwan<p>
+    <p>Email: jack910817@gmail.com<p>
 ---
 
 
