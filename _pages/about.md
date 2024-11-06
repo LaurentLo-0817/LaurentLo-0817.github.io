@@ -7,13 +7,12 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: |
-    <div style="text-align: center;">
-      Taipei, Taiwan<br>
-      Email: jack910817@gmail.com
-    </div>
-
 ---
+
+<div style="text-align: center;">
+  Taipei, Taiwan<br>
+  Email: jack910817@gmail.com
+</div>
 
 ## About Me
 I received my bachelor's degree in Electrical Engineering from National Taiwan University in 2024. I am applying for the ECE/CSE Graduate Program for the 2025 Fall. 
