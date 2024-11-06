@@ -7,7 +7,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: |
+  more_info: >
     Taipei, Taiwan<br>
     Email: jack910817@gmail.com
 ---
