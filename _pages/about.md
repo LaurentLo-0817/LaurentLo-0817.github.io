@@ -1,4 +1,3 @@
-
 ---
 layout: about
 title: About Me
@@ -7,14 +6,19 @@ subtitle: Welcome!
 profile:
   align: right
   image: prof_pic.jpg
+  image_circular: true
   more_info: |
+    <p>Taipei, Taiwan</p>
     <p>
       <a href="/assets/pdf/Wen_Chieh_Lo_resume.pdf" target="_blank">
-        <img src="/assets/img/resume-icon.png" alt="Résumé Icon" style="width: 20px; height: 20px; vertical-align: middle;">
+        <img src="/assets/img/resume-icon.png" alt="Resume Icon" style="width: 20px; height: 20px; vertical-align: middle;"> 
       </a>
+    </p>
+    <p>
       <a href="mailto:jack910817@gmail.com" target="_blank">
-        <img src="/assets/img/email-icon.png" alt="Email Icon" style="width: 20px; height: 20px; vertical-align: middle;">
-      </a>
+        <img src="/assets/img/email-icon.png" alt="Email Icon" style="width: 20px; height: 20px; vertical-align: middle;">  </a>
+    </p>
+    <p>
       <a href="https://www.linkedin.com/in/laurentlo0817" target="_blank">
         <img src="/assets/img/linkedin-icon.png" alt="LinkedIn Icon" style="width: 20px; height: 20px; vertical-align: middle;">
       </a>
@@ -25,8 +29,6 @@ I received my bachelor's degree in Electrical Engineering from National Taiwan U
 My research interests are in VLSI and Computer Architecture.
 I was a summer intern at MediaTek's SoC Integration Department, where I designed a low-power architecture plan for the NoC structure.
 During my undergraduate studies, I was advised by Prof. Yi-Chang Lu on Spliced Genomic Sequence Hardware Acceleration research and developed resource-efficient Machine Learning Model Deployment on FPGA features in Prof. Ryan Kastner's Lab.
-
-
 ### Research Interests
 * VLSI Design
 * Computer Architecture
