@@ -20,7 +20,7 @@ profile:
       </a>
     </p>
     <p>
-      <a href="www.linkedin.com/in/laurentlo0817" target="_blank">
+      <a href="https://www.linkedin.com/in/laurentlo0817" target="_blank">
         <img src="/assets/img/linkedin-icon.png" alt="LinkedIn Icon" style="width: 20px; height: 20px; vertical-align: middle;"> LinkedIn
       </a>
     </p>
