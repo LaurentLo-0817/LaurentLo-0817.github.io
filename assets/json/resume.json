@@ -43,7 +43,7 @@
       "position": "Lab Intern",
       "startDate": "2022-06-30",
       "endDate": "2022-08-31",
-      "summary": "	Implemented an accumulator bitwidth optimization feature for the HLS4ML real-time Machine Learning Model Inference toolkit, reducing the user's time spent on finetuning.",
+      "summary": "Implemented an accumulator bitwidth optimization feature for the HLS4ML real-time Machine Learning Model Inference toolkit, reducing the user's time spent on finetuning.",
     }
   ],
   "Awards": [
