@@ -10,8 +10,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Taipei, Taiwan</p>
-    <p>Email: <a href="mailto:jack910817@gmail.com">jack910817@gmail.com</a></p>
+    <div style="text-align: center;">
+      <p>Taipei, Taiwan</p>
+      <p>Email: <a href="mailto:jack910817@gmail.com">jack910817@gmail.com</a></p>
+    </div>
 
 ---
 ## About Me
