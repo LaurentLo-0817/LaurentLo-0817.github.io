@@ -21,7 +21,7 @@
       "courses": ["Computer Architecture(A)", "Digital Circuit Design Lab(A)", "Computer-aided VLSI System Design(A)", "Integrated Circuit Design(A)", "Algorithm, Data Structure", "Linear Algebra", "Discrete Math", "Operating System","Computer Vision"]
     }
   ],
-  "work": [
+  "Work": [
     {
       "name": "MediaTek Inc. Taiwan",
       "position": "Digital IC Design Summer Intern",
@@ -31,14 +31,24 @@
       "highlights": ["Designed an automatic power-saving SPEC for the clock tree in NoC System Modules","Utilizing Verdi for module behavior tracing."]
     }
   ],
-  "awards": [
+  "Research": [
+    {
+      "name": "MediaTek Inc. Taiwan",
+      "position": "Digital IC Design Summer Intern",
+      "startDate": "2023-07-01",
+      "endDate": "2023-08-31",
+      "summary": "Designing NoC IP low-power clock control flow using clock management IP",
+      "highlights": ["Designed an automatic power-saving SPEC for the clock tree in NoC System Modules","Utilizing Verdi for module behavior tracing."]
+    }
+  ],
+  "Awards": [
     {
       "title": "2021 Xilinx PYNQ AI/IoT Hackathon 2nd Place",
       "summary": "Project Topic: An Efficient Approach for Traffic Flow Detection and Tracking'"
     }
   ],
  
-  "publications": [
+  "Publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
       "publisher": "Annalen der Physik",
@@ -47,7 +57,7 @@
       "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
     }
   ],
-  "skills": [
+  "Skills": [
     {
       "name": "Programming Languages",
       "keywords": [
