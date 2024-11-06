@@ -4,18 +4,21 @@ layout: about
 title: About Me
 permalink: /
 subtitle: Welcome!
-more_info: |
-  <p>
-    <a href="/assets/pdf/Wen_Chieh_Lo_resume.pdf" target="_blank">
-      <img src="/assets/img/resume-icon.png" alt="Résumé Icon" style="width: 20px; height: 20px; vertical-align: middle;">
-    </a>
-    <a href="mailto:jack910817@gmail.com" target="_blank">
-      <img src="/assets/img/email-icon.png" alt="Email Icon" style="width: 20px; height: 20px; vertical-align: middle;">
-    </a>
-    <a href="https://www.linkedin.com/in/laurentlo0817" target="_blank">
-      <img src="/assets/img/linkedin-icon.png" alt="LinkedIn Icon" style="width: 20px; height: 20px; vertical-align: middle;">
-    </a>
-  </p>
+profile:
+  align: right
+  image: prof_pic.jpg
+  more_info: |
+    <p>
+      <a href="/assets/pdf/Wen_Chieh_Lo_resume.pdf" target="_blank">
+        <img src="/assets/img/resume-icon.png" alt="Résumé Icon" style="width: 20px; height: 20px; vertical-align: middle;">
+      </a>
+      <a href="mailto:jack910817@gmail.com" target="_blank">
+        <img src="/assets/img/email-icon.png" alt="Email Icon" style="width: 20px; height: 20px; vertical-align: middle;">
+      </a>
+      <a href="https://www.linkedin.com/in/laurentlo0817" target="_blank">
+        <img src="/assets/img/linkedin-icon.png" alt="LinkedIn Icon" style="width: 20px; height: 20px; vertical-align: middle;">
+      </a>
+    </p>
 ---
 ## About Me
 I received my bachelor's degree in Electrical Engineering from National Taiwan University in 2024. I am applying for the ECE/CSE Graduate Program for Fall 2025.
