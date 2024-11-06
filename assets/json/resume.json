@@ -20,7 +20,7 @@
       "courses": ["Computer Architecture(A)", "Digital Circuit Design Lab(A)", "Computer-aided VLSI System Design(A)", "Integrated Circuit Design(A)", "Algorithm, Data Structure", "Linear Algebra", "Discrete Math", "Operating System","Computer Vision"]
     }
   ],
-  "Work": [
+  "Work Experience": [
     {
       "name": "MediaTek Inc. Taiwan",
       "position": "Digital IC Design Summer Intern",
@@ -30,14 +30,20 @@
       "highlights": ["Designed an automatic power-saving SPEC for the clock tree in NoC System Modules","Utilizing Verdi for module behavior tracing."]
     }
   ],
-  "Research": [
+  "Research Experience": [
     {
-      "name": "MediaTek Inc. Taiwan",
-      "position": "Digital IC Design Summer Intern",
-      "startDate": "2023-07-01",
-      "endDate": "2023-08-31",
-      "summary": "Designing NoC IP low-power clock control flow using clock management IP",
-      "highlights": ["Designed an automatic power-saving SPEC for the clock tree in NoC System Modules","Utilizing Verdi for module behavior tracing."]
+      "name": "Data Processing Lab, NTU (w/ Prof. Yi-Chang Lu) ",
+      "position": "Undergraduate Researcher",
+      "startDate": "2023-02-30",
+      "endDate": "2024-06-31",
+      "summary": "Developed an end-to-end spliced genome alignment hardware accelerator in ASIC and FPGA",
+    }
+    {
+      "name": "Kastner Research Group, UCSD (w/ Prof. Ryan Kastner) ",
+      "position": "Lab Intern",
+      "startDate": "2022-06-30",
+      "endDate": "2022-08-31",
+      "summary": "	Implemented an accumulator bitwidth optimization feature for the HLS4ML real-time Machine Learning Model Inference toolkit, reducing the user's time spent on finetuning.",
     }
   ],
   "Awards": [
