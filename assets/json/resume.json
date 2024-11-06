@@ -41,20 +41,6 @@
         "Designed an automatic power-saving SPEC for the clock tree in NoC System Modules",
         "Utilizing Verdi for module behavior tracing."
       ]
-    },
-    {
-      "name": "Data Processing Lab, NTU (w/ Prof. Yi-Chang Lu)",
-      "position": "Undergraduate Researcher",
-      "startDate": "2023-02-28",
-      "endDate": "2024-06-30",
-      "summary": "Developed an end-to-end spliced genome alignment hardware accelerator in ASIC and FPGA"
-    },
-    {
-      "name": "Kastner Research Group, UCSD (w/ Prof. Ryan Kastner)",
-      "position": "Lab Intern",
-      "startDate": "2022-06-30",
-      "endDate": "2022-08-31",
-      "summary": "Implemented an accumulator bitwidth optimization feature for the HLS4ML real-time Machine Learning Model Inference toolkit, reducing the user's time spent on finetuning."
     }
   ],
   "awards": [
