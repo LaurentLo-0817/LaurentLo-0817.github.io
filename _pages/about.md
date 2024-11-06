@@ -21,7 +21,7 @@ My research interests are in VLSI and Computer Architecture.
 
 I was a summer intern at MediaTek's SoC Integration Department, where I designed a low-power architecture plan for the NoC structure.  
 
-During my undergraduate studies, I was advised by Prof. Yi-Chang Lu on Spliced Genomic Sequence Hardware Acceleration research and developed resource-efficient Machine Learning Model Deployment on FPGA features in Prof. Ryan Kastner's Lab.
+During my undergraduate studies, Prof. Yi-Chang Lu advised me on Spliced Genomic Sequence Hardware Acceleration research and developed resource-efficient Machine Learning Model Deployment on FPGA features in Prof. Ryan Kastner's Lab.
 
 ### Research Interests
 * VLSI Design
