@@ -5,22 +5,17 @@ title: About Me
 permalink: /
 subtitle: Welcome!
 more_info: |
-  <div style="display: block;">Taipei, Taiwan</div>
-  <div style="display: block;">
+  <p>
     <a href="/assets/pdf/Wen_Chieh_Lo_resume.pdf" target="_blank">
-      <img src="/assets/img/resume-icon.png" alt="Resume Icon" style="width: 20px; height: 20px; vertical-align: middle;"> Résumé
+      <img src="/assets/img/resume-icon.png" alt="Résumé Icon" style="width: 20px; height: 20px; vertical-align: middle;">
     </a>
-  </div>
-  <div style="display: block;">
     <a href="mailto:jack910817@gmail.com" target="_blank">
-      <img src="/assets/img/email-icon.png" alt="Email Icon" style="width: 20px; height: 20px; vertical-align: middle;"> Email
+      <img src="/assets/img/email-icon.png" alt="Email Icon" style="width: 20px; height: 20px; vertical-align: middle;">
     </a>
-  </div>
-  <div style="display: block;">
     <a href="https://www.linkedin.com/in/laurentlo0817" target="_blank">
-      <img src="/assets/img/linkedin-icon.png" alt="LinkedIn Icon" style="width: 20px; height: 20px; vertical-align: middle;"> LinkedIn
+      <img src="/assets/img/linkedin-icon.png" alt="LinkedIn Icon" style="width: 20px; height: 20px; vertical-align: middle;">
     </a>
-  </div>
+  </p>
 ---
 ## About Me
 I received my bachelor's degree in Electrical Engineering from National Taiwan University in 2024. I am applying for the ECE/CSE Graduate Program for Fall 2025.
