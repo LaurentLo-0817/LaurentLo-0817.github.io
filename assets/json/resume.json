@@ -8,7 +8,7 @@
     "url": "https://LaurentLo-0817.github.io",
     "summary": "Currently Applying ECE/CSE program for 2025 Fall"
   },
-  "Education": [
+  "education": [
     {
       "institution": "National Taiwan University",
       "location": "Taipei, Taiwan",
@@ -30,7 +30,7 @@
       ]
     }
   ],
-  "Work Experience": [
+  "work": [
     {
       "name": "MediaTek Inc. Taiwan",
       "position": "Digital IC Design Summer Intern",
@@ -41,9 +41,7 @@
         "Designed an automatic power-saving SPEC for the clock tree in NoC System Modules",
         "Utilizing Verdi for module behavior tracing."
       ]
-    }
-  ],
-  "Research Experience": [
+    },
     {
       "name": "Data Processing Lab, NTU (w/ Prof. Yi-Chang Lu)",
       "position": "Undergraduate Researcher",
@@ -59,14 +57,14 @@
       "summary": "Implemented an accumulator bitwidth optimization feature for the HLS4ML real-time Machine Learning Model Inference toolkit, reducing the user's time spent on finetuning."
     }
   ],
-  "Awards": [
+  "awards": [
     {
       "title": "2021 Xilinx PYNQ AI/IoT Hackathon 2nd Place",
       "summary": "Project Topic: An Efficient Approach for Traffic Flow Detection and Tracking"
     }
   ],
  
-  "Publications": [
+  "publications": [
     {
       "name": "Zur Elektrodynamik bewegter Körper",
       "publisher": "Annalen der Physik",
@@ -75,7 +73,7 @@
       "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
     }
   ],
-  "Skills": [
+  "skills": [
     {
       "name": "Programming Languages",
       "keywords": [
