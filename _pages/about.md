@@ -23,11 +23,9 @@ I am applying for the ECE/CSE Graduate Program for the 2025 Fall.
 
 My research interests are in VLSI and Computer Architecture.  
 
-I was a summer intern at MediaTek's SoC Integration Department,  
-designing a low-power architecture plan for the NoC structure.  
+I was a summer intern at MediaTek's SoC Integration Department, designing a low-power architecture plan for the NoC structure.  
 
-During my undergraduate studies, I was advised by Prof. Yi-Chang Lu for Spliced Genomic Sequence Hardware Acceleration research,  
-and developed resource-efficient Machine Learning Model Deployment on FPGA features in Prof. Ryan Kastner's Lab.
+During my undergraduate studies, I was advised by Prof. Yi-Chang Lu for Spliced Genomic Sequence Hardware Acceleration research, and developed resource-efficient Machine Learning Model Deployment on FPGA features in Prof. Ryan Kastner's Lab.
 
 ### Research Interests
 * VLSI Design
