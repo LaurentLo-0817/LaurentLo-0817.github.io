@@ -12,12 +12,12 @@ profile:
     <p>
       <a href="/assets/pdf/Wen_Chieh_Lo_resume.pdf" target="_blank">
         <img src="/assets/img/resume-icon.png" alt="Resume Icon" style="width: 20px; height: 20px; vertical-align: middle;"> Résumé
-      </a>
+      </a><br>
     </p>
     <p>
       <a href="mailto:jack910817@gmail.com" target="_blank">
         <img src="/assets/img/email-icon.png" alt="Email Icon" style="width: 20px; height: 20px; vertical-align: middle;"> Email
-      </a>
+      </a><br>
     </p>
     <p>
       <a href="https://www.linkedin.com/in/laurentlo0817" target="_blank">
