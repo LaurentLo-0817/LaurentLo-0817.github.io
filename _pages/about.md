@@ -9,7 +9,18 @@ profile:
   image_circular: true
   more_info: |
     <p>Taipei, Taiwan</p>
-    <p>Email: jack910817@gmail.com</p>
+    <p>
+      <a href="mailto:jack910817@gmail.com" target="_blank">
+        <img src="/assets/img/email-icon.png" alt="Email Icon" style="width: 20px; height: 20px; vertical-align: middle;">
+        Email
+      </a>
+    </p>
+    <p>
+      <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+        <img src="/assets/img/linkedin-icon.png" alt="LinkedIn Icon" style="width: 20px; height: 20px; vertical-align: middle;">
+        LinkedIn
+      </a>
+    </p>
 ---
 
 ## About Me
