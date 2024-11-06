@@ -6,12 +6,13 @@ subtitle: Welcome!
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info:  |
+  image_circular: false
+  more_info: |
     <div style="text-align: center;">
       Taipei, Taiwan<br>
       Email: jack910817@gmail.com
     </div>
+
 ---
 
 ## About Me
