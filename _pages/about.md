@@ -11,6 +11,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Taipei, Taiwan</p>
+    <p>Email: <a href="mailto:jack910817@gmail.com">jack910817@gmail.com</a></p>
 
 ---
 ## About Me
