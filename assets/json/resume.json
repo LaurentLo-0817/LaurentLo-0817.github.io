@@ -18,15 +18,18 @@
       "endDate": "2024-06-30",
       "score": "3.99",
       "courses": [
+        "Computer-aided VLSI System Design",
         "Computer Architecture",
         "Digital Circuit Design Lab",
-        "Computer-aided VLSI System Design",
         "Integrated Circuit Design",
-        "Algorithm, Data Structure",
+        "Operating System",
+        "Algorithm", 
+        "Data Structure",
+        "Computer Vision",
+        "Machine Learning"
         "Linear Algebra",
         "Discrete Math",
-        "Operating System",
-        "Computer Vision"
+        "CUDA Parallel Programming"
       ]
     }
   ],
