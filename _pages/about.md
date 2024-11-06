@@ -10,6 +10,12 @@ profile:
   more_info: |
     <p>Taipei, Taiwan</p>
     <p>
+      <a href="/assets/pdf/Wen_Chieh_Lo_resume.pdf" target="_blank">
+        <img src="/assets/img/resume-icon.png" alt="Resume Icon" style="width: 20px; height: 20px; vertical-align: middle;">
+        Résumé
+      </a>
+    </p>
+    <p>
       <a href="mailto:jack910817@gmail.com" target="_blank">
         <img src="/assets/img/email-icon.png" alt="Email Icon" style="width: 20px; height: 20px; vertical-align: middle;">
         Email
@@ -21,13 +27,7 @@ profile:
         LinkedIn
       </a>
     </p>
-    <p>
-      <a href="/assets/files/Resume.pdf" target="_blank">
-        <img src="/assets/img/resume-icon.png" alt="Resume Icon" style="width: 20px; height: 20px; vertical-align: middle;">
-        Résumé
-      </a>
-    </p>
-
+    
 ---
 
 ## About Me
