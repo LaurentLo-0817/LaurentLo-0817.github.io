@@ -6,7 +6,7 @@ subtitle: Welcome!
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false
+  image_circular: true
   more_info: |
     <p>Taipei, Taiwan</p>
     <p>Email: jack910817@gmail.com</p>
