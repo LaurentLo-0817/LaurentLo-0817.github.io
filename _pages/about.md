@@ -10,14 +10,14 @@ profile:
   more_info: |
     <p>Taipei, Taiwan</p>
     <p style="text-align: center;">
-      <a href="/LaurentLo-0817.github.io/assets/pdf/Wen_Chieh_Lo_resume.pdf" target="_blank" style="display: inline-block; margin-right: 10px;">
-        <img src="resume-icon.png" alt="Resume Icon" style="width: 20px; height: 20px; vertical-align: middle;"> Resume
+      <a href="/assets/pdf/Wen_Chieh_Lo_resume.pdf" target="_blank" style="display: inline-block; margin-right: 10px;">
+        <img src="/assets/img/resume-icon.png" alt="Resume Icon" style="width: 20px; height: 20px; vertical-align: middle;"> Resume
       </a>
       <a href="mailto:jack910817@gmail.com" target="_blank" style="display: inline-block; margin-right: 10px;">
-        <img src="email-icon.png" alt="Email Icon" style="width: 20px; height: 20px; vertical-align: middle;"> Email
+        <img src="/assets/img/email-icon.png" alt="Email Icon" style="width: 20px; height: 20px; vertical-align: middle;"> Email
       </a>
       <a href="https://www.linkedin.com/in/laurentlo0817/" target="_blank" style="display: inline-block;">
-        <img src="linkedin-icon.png" alt="LinkedIn Icon" style="width: 20px; height: 20px; vertical-align: middle;"> LinkedIn
+        <img src="/assets/img/linkedin-icon.png" alt="LinkedIn Icon" style="width: 20px; height: 20px; vertical-align: middle;"> LinkedIn
       </a>
     </p>
 ---
