@@ -63,25 +63,11 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": [
-        "Verilog",
-        "System Verilog",
-        "Python",
-        "C++",
-        "Matlab",
-        "Perl"
-      ]
+      "keywords": ["Verilog", "System Verilog", "Python", "C++", "Matlab", "Perl"]
     },
     {
       "name": "Tools",
-      "keywords": [
-        "Verdi",
-        "Design Vision",
-        "Innovus",
-        "PrimeTime",
-        "Quartus FPGA",
-        "Riffa"
-      ]
+      "keywords": ["Verdi", "Design Vision", "Innovus", "PrimeTime", "Quartus FPGA", "Riffa"]
     }
   ]
 }
