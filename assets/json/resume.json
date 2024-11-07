@@ -41,7 +41,7 @@
       "summary": "Designing NoC IP low-power clock control flow using clock management IP",
       "highlights": [
         "Designed an automatic power-saving SPEC for the clock tree in NoC System Modules",
-        "Utilizing Verdi for module behavior tracing."
+        "Utilized Verdi for module behavior tracing."
       ]
     }
   ],
