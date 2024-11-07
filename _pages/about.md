@@ -7,7 +7,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true
-  more_info: >
+  more_info: |
     <p style="text-align: center;">
       <a href="/assets/pdf/Wen_Chieh_Lo_resume.pdf" target="_blank" style="display: inline-block; margin-right: 10px;">
         <img src="/assets/img/resume-icon.png" alt="Resume Icon" style="width: 20px; height: 20px; vertical-align: middle;"> Resume
