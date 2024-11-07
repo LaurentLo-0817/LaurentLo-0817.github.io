@@ -16,6 +16,9 @@ profile:
       <a href="mailto:jack910817@gmail.com" target="_blank" style="display: inline-block; margin-right: 10px;">
         <img src="/assets/img/email-icon.png" alt="Email Icon" style="width: 20px; height: 20px; vertical-align: middle;"> Email
       </a>
+      <a href="/assets/pdf/Wen_Chieh_Lo_resume.pdf" target="_blank" style="display: inline-block;">
+        <img src="/assets/img/linkedin-icon.png" alt="LinkedIn Icon" style="width: 20px; height: 20px; vertical-align: middle;"> LinkedIn
+      </a>
     </p>
 
 ---
