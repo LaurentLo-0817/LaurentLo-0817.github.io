@@ -1,6 +1,5 @@
 {
-  "basics": 
-  {
+  "basics": {
     "name": "Wen Chieh Lo",
     "image": "prof_pic.jpg",
     "email": "jack910817@gmail.com",
@@ -23,10 +22,10 @@
         "Digital Circuit Design Lab",
         "Integrated Circuit Design",
         "Operating System",
-        "Algorithm", 
+        "Algorithm",
         "Data Structure",
         "Computer Vision",
-        "Machine Learning"
+        "Machine Learning",
         "Linear Algebra",
         "Discrete Math",
         "CUDA Parallel Programming"
@@ -52,7 +51,6 @@
       "summary": "Project Topic: An Efficient Approach for Traffic Flow Detection and Tracking"
     }
   ],
- 
   "publications": [
     {
       "name": "Zur Elektrodynamik bewegter Körper",
