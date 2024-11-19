@@ -34,7 +34,18 @@
   ],
   "work": [
     {
-      "name": "MediaTek Inc. Taiwan",
+      "name": "Prof. Yi-Chang Lu's Lab, National Taiwan University",
+      "position": "Undergraduate Researcher",
+      "startDate": "2023-07-01",
+      "endDate": "2023-08-31",
+      "summary": "Designing NoC IP low-power clock control flow using clock management IP",
+      "highlights": [
+        "Designed an automatic power-saving SPEC for the clock tree in NoC System Modules",
+        "Utilized Verdi for module behavior tracing."
+      ]
+    },
+    {
+      "name": "MediaTek Inc. Taipei",
       "position": "Digital IC Design Summer Intern",
       "startDate": "2023-07-01",
       "endDate": "2023-08-31",
@@ -45,14 +56,14 @@
       ]
     },
     {
-      "name": "MediaTek Inc. Taiwan",
-      "position": "Digital IC Design Summer Intern",
-      "startDate": "2023-07-01",
-      "endDate": "2023-08-31",
-      "summary": "Designing NoC IP low-power clock control flow using clock management IP",
+      "name": "Prof. Ryan Kastner's Lab, UC San Diego",
+      "position": "Undergraduate Researcher",
+      "startDate": "2022-07-01",
+      "endDate": "2022-08-31",
+      "summary": "Developed an automatic bitwidth selection feature for the HLS4ML, a real-time Machine Learning Model Inference toolkit. ",
       "highlights": [
-        "Designed an automatic power-saving SPEC for the clock tree in NoC System Modules",
-        "Utilized Verdi for module behavior tracing."
+        "We provide optimized accumulator bitwidths for both Fully Connected and Convolutional layers, leveraging the wrap-around property to ensure efficient resource utilization and overflow prevention.",
+        "Established precision bounds (Pessimistic, Conservative, and Optimistic) based on weight data, input data, and kernel specifications, using a custom method to enable flexible bitwidth configurations for diverse neural network architectures."
       ]
     }
 
