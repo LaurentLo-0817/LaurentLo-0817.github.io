@@ -43,7 +43,19 @@
         "Designed an automatic power-saving SPEC for the clock tree in NoC System Modules",
         "Utilized Verdi for module behavior tracing."
       ]
+    },
+    {
+      "name": "MediaTek Inc. Taiwan",
+      "position": "Digital IC Design Summer Intern",
+      "startDate": "2023-07-01",
+      "endDate": "2023-08-31",
+      "summary": "Designing NoC IP low-power clock control flow using clock management IP",
+      "highlights": [
+        "Designed an automatic power-saving SPEC for the clock tree in NoC System Modules",
+        "Utilized Verdi for module behavior tracing."
+      ]
     }
+
   ],
   "awards": [
     {
