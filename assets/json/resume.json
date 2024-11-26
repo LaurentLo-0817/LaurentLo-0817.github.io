@@ -54,7 +54,7 @@
       "highlights": [
         "Designed a dynamic clock control flow for Network-on-Chip (NoC) nodes with dynamic clock management IP, optimizing power efficiency and preventing packet transmission conflicts by ensuring no other packets are beingtransmitted during clock transitions.",
         "Developed a signaling mechanism to prevent data loss during clock restart, while supporting reliable transmission across different clock domains within the NoC system.",
-        "Maintained the synthesis environment and for performance, power, and area analysis of Configuration BUS."
+        "Maintained the synthesis environment for performance, power, and area analysis of Configuration BUS."
       ]
     },
     {
@@ -64,7 +64,7 @@
       "endDate": "2022-08-31",
       "summary": "Developed an automatic bitwidth selection feature for the HLS4ML, a real-time Machine Learning Model Inference toolkit. ",
       "highlights": [
-        "We provide optimized accumulator bitwidths for both Fully Connected and Convolutional layers, leveraging the wrap-around property to ensure efficient resource utilization and overflow prevention.",
+        "Developed an automatic accumulator bitwidth optimization feature for the HLS4ML real-time Machine Learning Model Inference toolkit, for both Fully Connected and Convolutional layers, leveraging the wrap-around property to ensure efficient resource utilization and overflow prevention.",
         "Established precision bounds (Pessimistic, Conservative, and Optimistic) based on weight data, input data, and kernel specifications, using a custom method to enable flexible bitwidth configurations for diverse neural network architectures."
       ]
     }
