@@ -40,8 +40,10 @@
       "endDate": "2024-06-31",
       "summary": "Designing the first memory-efficient syncmer based end-to-end hardware accelerated genome sequence aligner",
       "highlights": [
-        "Achieving over 10x speedup compared to minimap2 under TSMC 28nm proces",
-        "Proposed the first-ever hardware-friendly syncmer extraction hardware, utilizing FIFO and a 2-stage buffer to enable pipelined dual-parameter offset syncmer extraction.",
+        "Designed the first memory-efficient syncmer based end-to-end hardware accelerated genome sequence aligner,
+achieving 12.84x speedup compared to minimap2 using TSMC 28nm process and 3.10x speed up using FPGA.",
+        "Designed the first-ever hardware-friendly syncmer extraction hardware, utilizing FIFO and a 2-stage buffer to
+enable pipelined dual-parameter offset syncmer extraction.",
         "Performed bitwidth reduction for alignment traceback, optimizing spliced alignment by storing traceback information with only 5 bits and using a heuristic to omit intermediate storage for long introns, reducing over 98% of memory usage."
       ]
     },
