@@ -52,7 +52,7 @@
       "endDate": "2023-08-31",
       "summary": "Designing NoC IP low-power clock control flow using clock management IP",
       "highlights": [
-        "Designed a dynamic clock control flow for Network-on-Chip (NoC) nodes with dynamic clock management IP, optimizing power efficiency and preventing packet transmission conflicts by ensuring no other packets are being transmitted during clock transitions.",
+        "Designed a dynamic clock control flow for Network-on-Chip (NoC) nodes with dynamic clock management IP, optimizing power efficiency and preventing packet transmission conflicts by ensuring no other packets are beingtransmitted during clock transitions.",
         "Developed a signaling mechanism to prevent data loss during clock restart, while supporting reliable transmission across different clock domains within the NoC system.",
         "Maintained the synthesis environment and for performance, power, and area analysis of Configuration BUS."
       ]
