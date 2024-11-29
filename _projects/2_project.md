@@ -86,7 +86,9 @@ The Onset Detection Algorithm is the core component of the FPGA-accelerated audi
 
 - **Memory Optimization**:  
    Uses SRAM to store intermediate FFT results and onset data, ensuring efficient resource usage.
+
 ---
+
 ## Result
 
 - **Resource Usage**:
