@@ -1,81 +1,86 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: QR Demodulation in MIMO Systems
+description: Efficient QR Decomposition for MIMO Signal Demodulation
+img: assets/img/mimo_main.jpg
 importance: 1
-category: work
-related_publications: true
+category: Selected Projects
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Overview
+The project focuses on implementing a **QR Decomposition (QRD)** module, a critical component in modern wireless communication systems, for a 4x4 MIMO receiver. By transforming complex channel matrices into simpler forms, QRD enables efficient Maximum Likelihood (ML) demodulation, enhancing system reliability and throughput in the presence of AWGN (Additive White Gaussian Noise).
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The implementation is based on the **Modified Gram-Schmidt algorithm**, which decomposes the channel matrix \(H\) into:  
+- **Q**: An orthogonal matrix  
+- **R**: An upper triangular matrix  
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This approach reduces computational complexity and optimizes signal recovery.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+---
+
+## Algorithm: Modified Gram-Schmidt
+The **QR Decomposition** process involves:
+1. **Vector Normalization**: Calculating Euclidean distances to normalize channel vectors.  
+2. **Iterative Updates**: Using the Gram-Schmidt process to orthogonalize and update signal vectors.  
+3. **Matrix Generation**: Producing the orthogonal matrix \(Q\) and upper triangular matrix \(R\) for efficient decoding.
+<div class="row justify-content-center">
+    <div class="col-8 mt-3 mt-md-0 text-center">
+        {% include figure.liquid path="assets/img/Gram_Schdmit_algo.jpg" title="Full-Width Image" class="img-fluid rounded z-depth-1" style="max-width: 70%;" %}
     </div>
 </div>
+<div class="row justify-content-center">
+    <div class="col-sm-6 col-md-4 mt-3 mt-md-0 text-center">
+        {% include figure.liquid path="assets/img/iter0.jpg" title="Iter 0" class="img-fluid rounded z-depth-1" style="max-width: 70%;" %}
+    </div>
+    <div class="col-sm-6 col-md-4 mt-3 mt-md-0 text-center">
+        {% include figure.liquid path="assets/img/iter1.jpg" title="Iter 1" class="img-fluid rounded z-depth-1" style="max-width: 70%;" %}
+    </div>
+</div>
+<div class="row justify-content-center">
+    <div class="col-sm-6 col-md-4 mt-3 mt-md-0 text-center">
+        {% include figure.liquid path="assets/img/iter2.jpg" title="Iter 2" class="img-fluid rounded z-depth-1" style="max-width: 70%;" %}
+    </div>
+    <div class="col-sm-6 col-md-4 mt-3 mt-md-0 text-center">
+        {% include figure.liquid path="assets/img/iter3.jpg" title="Iter 3" class="img-fluid rounded z-depth-1" style="max-width: 70%;" %}
+    </div>
+</div>
+
+
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Iteration Process of Modified Gram-Schmidt Algorithm
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
+
+## Methodology
+
+1. Fixed-Point Configuration
+- **Register Design**: Optimized register bit-widths to balance precision and hardware efficiency.  
+- **LUTs for Arithmetic Operations**: Leveraged Look-Up Tables (LUTs) for fast **square** and **square root** calculations, reducing computational delay.
+2. Pipelined Architecture
+- **Stage Division**: The computation process was divided into multiple stages, enabling parallel operations and minimizing latency.  
+- **Resource Sharing**: Efficiently shared resources across pipeline stages to improve utilization.  
+- **Throughput Optimization**: Achieved high processing speeds with minimal resource overhead.
+<div class="row justify-content-center">
+    <div class="col-24 mt-3 mt-md-0 text-center">
+        {% include figure.liquid path="assets/img/hardware_schedule.png" title="Full-Width Image" class="img-fluid rounded z-depth-1" style="max-width: 70%;" %}
     </div>
 </div>
+
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    We precisely arrange each processing unit (i.e. Multiplier, Adder and other) usage to ensure maximum usage in every cycle.
 </div>
-
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+---
+## Block Diagram
+<div class="row justify-content-center">
+    <div class="col-8 mt-3 mt-md-0 text-center">
+        {% include figure.liquid path="assets/img/QR_Engine_block_diagram.png" title="Full-Width Image" class="img-fluid rounded z-depth-1" style="max-width: 70%;" %}
     </div>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+---
+## Results 
+**Post-Layout Performance Ranked 3rd** in All Undergraduate Teams  
+1. **Area**: 827604.71 um^2  
+2. **Latency**: 100161.5 ns  
+3. **Power**: 46.8 mW  
