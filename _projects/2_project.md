@@ -100,7 +100,7 @@ The Onset Detection Algorithm is the core component of the FPGA-accelerated audi
 [Watch on YouTube](https://www.youtube.com/watch?v=9JwqjSBcTBg&ab_channel=DCLabNTUEE)
 <div style="text-align: center;">
     <video width="560" height="315" controls>
-        <source src="assets/videos/Beat_the_drum_demo.mp4" type="video/mp4">
+        <source src="../assets/video/Beat_the_drum_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </div>
